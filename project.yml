@@ -1,0 +1,9 @@
+name: FirebaseModel
+targets:
+  FirebaseModel:
+    type: framework
+    platform: iOS
+    sources:
+      - Classes
+    settings:
+      PRODUCT_BUNDLE_IDENTIFIER: com.sportsanalytics.FirebaseModel
