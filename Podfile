@@ -6,5 +6,8 @@ target 'FirebaseModel' do
   use_frameworks!
 
   # Pods for FirebaseModel
+  pod 'FirebaseDatabase'
+  pod 'FirebaseFirestore'
+  pod 'FirebaseAuth'
 
 end
