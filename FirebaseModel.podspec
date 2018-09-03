@@ -11,6 +11,7 @@ Pod::Spec.new do |s|
   # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   s.name         = "FirebaseModel"
   s.version      = "0.0.1"
+  s.ios.deployment_target = '7.0'
   s.summary      = "A short description of FirebaseModel."
   s.description  = "The ultimate Active Record pattern for Firebase"
   s.homepage     = "http://www.sportsanalyticsinc.com"
